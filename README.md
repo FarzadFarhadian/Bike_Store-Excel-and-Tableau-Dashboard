@@ -38,9 +38,9 @@ The following files are included in this repository:
 
 - `sql_queries.sql`: The SQL queries used to clean and prepare the sales data.
 
-- `bike_store_revenue.xlsx`: The Excel file containing the pivot tables and charts.
+- `bike_store_revenue.xlsx`: The Excel file containing the pivot tables and dinamic dashboard.
 
-- `bike_store_revenue.twbx`: The Tableau workbook containing the interactive dashboards.
+- `bike_store_revenue.twbx`: The Tableau workbook containing the interactive dinamic dashboard.
 
 ## Contact
 
